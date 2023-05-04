@@ -1,3 +1,5 @@
+<div style="background-color: #2C3539; color: #D46A6A; padding: 20px; border-radius: 5px;">
+
 ### Hi there 👋
 
 ## About Me
@@ -12,8 +14,12 @@ Here are some projects you can check out to see how I work
 [Hammer and Tongs](https://github.com/DamonVizl/Hammer-And-Tongs) - A small indie developed game I built for a game jam. Mine, craft and sell items to upgrade your gear!
 
 
+## Badges
+
+<img src="https://user-images.githubusercontent.com/88814126/236190196-1b57c635-8046-4f95-9f56-01c11a7d659f.png" alt="your-image-description" width="150" height="150">
 
 
+</div>
 <!--
 **DamonVizl/DamonVizl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
