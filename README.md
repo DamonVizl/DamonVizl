@@ -3,10 +3,10 @@
 ### Hi there 👋
 
 ## About Me
-My name is Damon Vizl, I am an Electrical Engineer (15 years RAN), Artificial Intelligence/Machine Learning Engineer (Grad Cert, Deakin University), Software Developer (C#, Python, some others), and a maker. 
+My name is Damon Vizl, I am an Electrical Engineer (15 years RAN), Artificial Intelligence/Machine Learning Engineer (Post Grad, Deakin University), Software Developer (C#, Python, some others), and a maker. 
 
 ## 🌱 Currently Learning 🌱
-I have just completed my Grad Cert in AI at Deakin and am currently learning how to utilise Hugging Face and OpenAI APIs and models to supplement my programs. 
+I have just completed post graduate studies in AI at Deakin and am currently learning how to utilise Hugging Face and OpenAI APIs and models to supplement my programs. 
   
 ## ⚡ Projects ⚡
 Here are some projects you can check out to see how I work.
@@ -22,7 +22,7 @@ https://github.com/DamonVizl/DamonVizl/assets/88814126/19ea5222-86e4-4f06-a2aa-1
 ### Object Detection and Classification
 My Christmas family photo - AI edition (with a 'mammal')
 
-<img src = MyFamilyPhotoWithBoxes.jpg height = 300 width = 500>
+<img src = MyFamilyPhotoWithBoxes.jpg style = "display: flex; justify-content: center; align-items: center; height:300px;  width: 500px;">
 
 ### Supervised and Unsupervised Learning
 I have also worked on many supervised and unsupervised learning machine learning models for data analysis, trend analysis, prediction and forecasting. Specifically Linear Regression, Decision Trees, SVC, Ensemble methods including RFC and many more. 
@@ -37,8 +37,9 @@ An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a 
   
 ## Maker Projects
 ### Autonomous Underwater Vehicle
-Autonomous depth stabilisation. Created for my honours project for my degree in 2012 (pre AI) using control theory systems. Find the summary report [here](SummaryReport.pdf).
-![image](https://github.com/DamonVizl/DamonVizl/assets/88814126/7347e9c7-6654-4318-a3ac-f4b41b2fc6e7)
+Autonomous depth stabilisation. Created for my honours project for my degree in 2012 (pre AI) using control theory systems. Find the summary report [here](SummaryReport.pdf).\
+<img src = SummaryReport.jpg style="width: 200 px;">
+
 
 
 ## Badges
