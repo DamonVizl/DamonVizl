@@ -12,7 +12,8 @@ During my studies I have built classification and detection AI systems, Computer
 Here are some projects you can check out to see how I work
 
 [Hammer and Tongs](https://github.com/DamonVizl/Hammer-And-Tongs) - A small indie developed game I built for a game jam. Mine, craft and sell items to upgrade your gear!
-## AI DM - An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a table top RPG adventure. Use any setting (fantasy, sci-fi, cyberpunk, modern war, high school, you name it!) and create your own party to go on ever changing and adapting adventures. 
+## AI DM 
+An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a table top RPG adventure. Use any setting (fantasy, sci-fi, cyberpunk, modern war, high school, you name it!) and create your own party to go on ever changing and adapting adventures. 
 ![AI DM](https://github.com/DamonVizl/DamonVizl/assets/88814126/fad18006-ffae-4b59-b7c2-bf26a0f1b70d)
 
   
