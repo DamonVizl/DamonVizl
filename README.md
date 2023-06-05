@@ -29,7 +29,7 @@ I have also worked on many supervised and unsupervised learning machine learning
   
 ## Software Dev
 ### Hammer and Tongs
-[Hammer and Tongs](https://github.com/DamonVizl/Hammer-And-Tongs) - A small indie developed game I built for a game jam. Mine, craft and sell items to upgrade your gear!
+[Hammer and Tongs](https://lemonlimebitta.itch.io/hammer-and-tongs) - A small indie developed game I built for a game jam. Mine, craft and sell items to upgrade your gear!
 ### AI DM 
 An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a table top RPG adventure. Use any setting (fantasy, sci-fi, cyberpunk, modern war, high school, you name it!) and create your own party to go on ever changing and adapting adventures. 
 
@@ -37,9 +37,9 @@ An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a 
 
 ## Badges
 
-<img src="https://user-images.githubusercontent.com/88814126/236190196-1b57c635-8046-4f95-9f56-01c11a7d659f.png" alt="Azure AI-900 Badge" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/88814126/236190196-1b57c635-8046-4f95-9f56-01c11a7d659f.png" alt="Azure AI-900 Badge" width="100" height="100">
 <img src = Python.png style="width: 200px; display: inline-block;">
-<img src = CSharp.png style="width: 200px; display: inline-block;">
+<img src = CSharp.png style="width: 100px; display: inline-block;">
 <img src = PowerBI.png style="width: 200px; display: inline-block;">
 <img src = Tableau.png style="width: 200px; display: inline-block;">
 
