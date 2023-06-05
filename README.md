@@ -3,12 +3,13 @@
 ### Hi there 👋
 
 ## About Me
-My name is Damon Vizl, I have worked as an Electrical Engineer for 11 years and as a Firefighter for 4 years! I am now studying Machine Learning and Artificial Intelligence at Deakin University to become an AI/ML Developer/Engineer!
+My name is Damon Vizl, I am an Electrical Engineer (15 years RAN), Artificial Intelligence/Machine Learning Engineer (Grad Cert, Deakin University), Software Developer (C#, Python, some others), and a maker. 
 
 ## 🌱 Currently Learning 🌱
-During my studies I have built classification and detection AI systems, Computer Vision, Natural Language Processing, AI API integration, and more. 
-
+I have just completed my Grad Cert in AI at Deakin and am currently learning how to utilise Hugging Face and OpenAI APIs and models to supplement my programs. 
   
+## ⚡ Projects ⚡
+Here are some projects you can check out to see how I work.
 ## AI/ML Demos 
 ### Object Detection and Tracking 
 I created an object detection and tracking program that can track emergency services vehicles (fire appliances, ambulances and police vehicles). 
@@ -20,11 +21,13 @@ https://github.com/DamonVizl/DamonVizl/assets/88814126/19ea5222-86e4-4f06-a2aa-1
 
 ### Object Detection and Classification
 My Christmas family photo - AI edition (with a 'mammal')
-![MyFamilyPhotoWithBoxes](https://github.com/DamonVizl/DamonVizl/assets/88814126/ca6a7140-1b1c-4b03-9ed7-a0aa75feb5d9)
 
-## ⚡ Projects ⚡
-Here are some projects you can check out to see how I work
+<img src = MyFamilyPhotoWithBoxes.jpg height = 300 width = 500>
 
+### Supervised and Unsupervised Learning
+I have also worked on many supervised and unsupervised learning machine learning models for data analysis, trend analysis, prediction and forecasting. Specifically Linear Regression, Decision Trees, SVC, Ensemble methods including RFC and many more. 
+  
+## Software Dev
 ### Hammer and Tongs
 [Hammer and Tongs](https://github.com/DamonVizl/Hammer-And-Tongs) - A small indie developed game I built for a game jam. Mine, craft and sell items to upgrade your gear!
 ### AI DM 
