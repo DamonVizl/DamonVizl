@@ -6,12 +6,22 @@
 My name is Damon Vizl, I have worked as an Electrical Engineer for 11 years and as a Firefighter for 4 years! I am now studying Machine Learning and Artificial Intelligence at Deakin University to become an AI/ML Developer/Engineer!
 
 ## 🌱 Currently Learning 🌱
-During my studies I have built classification and detection AI systems, Computer Vision, and more. 
+During my studies I have built classification and detection AI systems, Computer Vision, Natural Language Processing, AI API integration, and more. 
 
   
 ## AI/ML Demos 
-  
-https://drive.google.com/drive/u/0/folders/1AoGz1zOLlorvLPIaFEPvK5f4d1HG129r?ths=true
+### Object Detection and Tracking 
+I created an object detection and tracking program that can track emergency services vehicles (fire appliances, ambulances and police vehicles). 
+https://github.com/DamonVizl/DamonVizl/assets/88814126/0d7ffd37-e58c-442b-9ac5-727f99cbe445
+
+### Computer Vision Object Detection
+Yolo v7 Human detection project for Humanitarian Aid and Disaster Relief
+https://github.com/DamonVizl/DamonVizl/assets/88814126/19ea5222-86e4-4f06-a2aa-15f94e8e4a9c
+
+### Object Detection and Classification
+My Christmas family photo - AI edition (with a 'mammal')
+![MyFamilyPhotoWithBoxes](https://github.com/DamonVizl/DamonVizl/assets/88814126/ca6a7140-1b1c-4b03-9ed7-a0aa75feb5d9)
+
 ## ⚡ Projects ⚡
 Here are some projects you can check out to see how I work
 
@@ -19,8 +29,8 @@ Here are some projects you can check out to see how I work
 [Hammer and Tongs](https://github.com/DamonVizl/Hammer-And-Tongs) - A small indie developed game I built for a game jam. Mine, craft and sell items to upgrade your gear!
 ### AI DM 
 An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a table top RPG adventure. Use any setting (fantasy, sci-fi, cyberpunk, modern war, high school, you name it!) and create your own party to go on ever changing and adapting adventures. 
-![AIDM](https://github.com/DamonVizl/DamonVizl/assets/88814126/21ea9d85-4431-4ab0-9278-bd9661048f62)
 
+<img src = AIDM.PNG height = 300 width = 500>
 
 ## Badges
 
