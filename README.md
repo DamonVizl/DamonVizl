@@ -1,9 +1,8 @@
 <div style="background-color: #2C3539; color: #D46A6A; padding: 20px; border-radius: 5px;">
 
 ### Hi there 👋
-
-## About Me
 My name is Damon Vizl, I am an Electrical Engineer (15 years RAN), Artificial Intelligence/Machine Learning Engineer (Post Grad, Deakin University), Software Developer (C#, Python, some others), and a maker. 
+I am open to new job opportunities in AI and ML. 
 
 ## 🌱 Currently Learning 🌱
 I have just completed post graduate studies in AI at Deakin and am currently learning how to utilise Hugging Face and OpenAI APIs and models to supplement my programs. 
