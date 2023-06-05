@@ -34,6 +34,12 @@ I have also worked on many supervised and unsupervised learning machine learning
 An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a table top RPG adventure. Use any setting (fantasy, sci-fi, cyberpunk, modern war, high school, you name it!) and create your own party to go on ever changing and adapting adventures. 
 
 <img src = AIDM.PNG height = 300 width = 500>
+  
+## Maker Projects
+### Autonomous Underwater Vehicle
+Autonomous depth stabilisation. Created for my honours project for my degree in 2012 (pre AI) using control theory systems. Find the summary report [here](SummaryReport.pdf).
+![image](https://github.com/DamonVizl/DamonVizl/assets/88814126/7347e9c7-6654-4318-a3ac-f4b41b2fc6e7)
+
 
 ## Badges
 
