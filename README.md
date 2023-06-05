@@ -22,7 +22,7 @@ An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a 
   
 ## Badges
 
-<img src="https://user-images.githubusercontent.com/88814126/236190196-1b57c635-8046-4f95-9f56-01c11a7d659f.png" alt="your-image-description" width="150" height="150">
+<img src="https://user-images.githubusercontent.com/88814126/236190196-1b57c635-8046-4f95-9f56-01c11a7d659f.png" alt="Azure AI-900 Badge" width="150" height="150">
 
 
 
