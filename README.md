@@ -32,9 +32,11 @@ I have also worked on many supervised and unsupervised learning machine learning
 <img src = HammerAndTongs.png height = 300 width = 500>
 ### AI DM 
 An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a table top RPG adventure. Use any setting (fantasy, sci-fi, cyberpunk, modern war, high school, you name it!) and create your own party to go on ever changing and adapting adventures. 
-
 <img src = AIDM.PNG height = 300 width = 500>
-  
+### Packing
+[Packing](https://jowei.itch.io/packing) - Worked in a group of 5 to create this 2D game about moving. Quickly pack all the items but take care not to break anything!
+<img src = Packing.png height = 300 width = 500>
+ 
 ## Maker Projects
 ### Autonomous Underwater Vehicle
 Autonomous depth stabilisation. Created for my honours project for my degree in 2012 (pre AI) using control theory systems. Find the summary report [here](SummaryReport.pdf).\
