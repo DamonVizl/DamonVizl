@@ -29,6 +29,7 @@ I have also worked on many supervised and unsupervised learning machine learning
 ## Software Dev
 ### Hammer and Tongs
 [Hammer and Tongs](https://lemonlimebitta.itch.io/hammer-and-tongs) - A small indie developed game I built for a game jam. Mine, craft and sell items to upgrade your gear!
+<img src = HammerAndTongs.png height = 300 width = 500>
 ### AI DM 
 An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a table top RPG adventure. Use any setting (fantasy, sci-fi, cyberpunk, modern war, high school, you name it!) and create your own party to go on ever changing and adapting adventures. 
 
