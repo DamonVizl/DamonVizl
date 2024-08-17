@@ -9,7 +9,7 @@ I have just completed post graduate studies in AI at Deakin and am currently lea
   
 ## ⚡ Projects ⚡
 Here are some projects you can check out to see how I work.
-## AI/ML Demos 
+## AI/ML 
 ### Object Detection and Tracking 
 I created an object detection and tracking program that can track emergency services vehicles (fire appliances, ambulances and police vehicles). 
 https://github.com/DamonVizl/DamonVizl/assets/88814126/0d7ffd37-e58c-442b-9ac5-727f99cbe445
@@ -25,6 +25,9 @@ My Christmas family photo - AI edition (with a 'mammal')
 
 ### Supervised and Unsupervised Learning
 I have also worked on many supervised and unsupervised learning machine learning models for data analysis, trend analysis, prediction and forecasting. Specifically Linear Regression, Decision Trees, SVC, Ensemble methods including RFC and many more. 
+
+### Acoustic Analysis with the RAN
+Through 2023 I worked under the AUKUS initiative in a team developing Acoustic Analysis techniques. Contact me for further information. 
   
 ## Software Dev
 ### Hammer and Tongs
@@ -36,6 +39,8 @@ An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a 
 ### Packing
 [Packing](https://jowei.itch.io/packing) - Worked in a group of 5 to create this 2D game about moving. Quickly pack all the items but take care not to break anything!  
 <img src = Packing.png height = 300 width = 500>
+### Drogue (Title Pending)
+[Drogue](https://lemonlimebitta.itch.io/drogue) - In development Roguelite ARPG. Go down multiple levels with random skills, augments and gear and create a new build every run. 
  
 ## Maker Projects
 ### Autonomous Underwater Vehicle
