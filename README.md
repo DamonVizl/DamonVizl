@@ -41,6 +41,7 @@ An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a 
 <img src = Packing.png height = 300 width = 500>
 ### Drogue (Title Pending)
 [Drogue](https://lemonlimebitta.itch.io/drogue) - In development Roguelite ARPG. Go down multiple levels with random skills, augments and gear and create a new build every run. 
+<img src = Drogue.png height = 300 width = 500>
  
 ## Maker Projects
 ### Autonomous Underwater Vehicle
