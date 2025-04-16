@@ -1,7 +1,7 @@
 <div style="background-color: #2C3539; color: #D46A6A; padding: 20px; border-radius: 5px;">
 
 ### Hi there 👋
-My name is Damon Vizl, I am an Electrical Engineer (15 years RAN), Artificial Intelligence/Machine Learning Engineer (Post Grad, Deakin University), Software Developer (C#, Python, some others), and a maker. 
+My name is Damon Vizl, I am an Electrical Engineer (15 years RAN), Artificial Intelligence/Machine Learning Engineer (Post Grad, Deakin University), Game Developer (C#, Python, some others), and a maker. 
 
 ## 🌱 Working On 🌱
 I am currently solo developing Descend, deep in production hoping to show it to the world soon with a public demo this year! 
@@ -9,7 +9,7 @@ I am currently solo developing Descend, deep in production hoping to show it to 
 ## ⚡ Projects ⚡
 Here are some projects you can check out to see how I work.
   
-## Software Dev
+## Game Dev
 ### Descend (Title Pending)
 [Descend](https://lemonlimebitta.itch.io/drogue) - In development Roguelite ARPG. Go down multiple levels with random skills, augments and gear and create a new build every run. 
 
