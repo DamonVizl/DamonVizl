@@ -2,13 +2,27 @@
 
 ### Hi there 👋
 My name is Damon Vizl, I am an Electrical Engineer (15 years RAN), Artificial Intelligence/Machine Learning Engineer (Post Grad, Deakin University), Software Developer (C#, Python, some others), and a maker. 
-I am open to new job opportunities in AI and ML. 
 
-## 🌱 Currently Learning 🌱
-I have just completed post graduate studies in AI at Deakin and am currently learning how to utilise Hugging Face and OpenAI APIs and models to supplement my programs. 
+## 🌱 Working On 🌱
+I am currently solo developing Descend, deep in production hoping to show it to the world soon with a public demo this year! 
   
 ## ⚡ Projects ⚡
 Here are some projects you can check out to see how I work.
+  
+## Software Dev
+### Descend (Title Pending)
+[Descend](https://lemonlimebitta.itch.io/drogue) - In development Roguelite ARPG. Go down multiple levels with random skills, augments and gear and create a new build every run. 
+<img src = Drogue.png height = 300 width = 500>
+### Hammer and Tongs
+[Hammer and Tongs](https://lemonlimebitta.itch.io/hammer-and-tongs) - A small indie developed game I built for a game jam. Mine, craft and sell items to upgrade your gear!  
+<img src = HammerAndTongs.png height = 300 width = 500>
+### AI DM 
+An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a table top RPG adventure. Use any setting (fantasy, sci-fi, cyberpunk, modern war, high school, you name it!) and create your own party to go on ever changing and adapting adventures.   
+<img src = AIDM.PNG height = 300 width = 500>
+### Packing
+[Packing](https://jowei.itch.io/packing) - Worked in a group of 5 to create this 2D game about moving. Quickly pack all the items but take care not to break anything!  
+<img src = Packing.png height = 300 width = 500>
+
 ## AI/ML 
 ### Object Detection and Tracking 
 I created an object detection and tracking program that can track emergency services vehicles (fire appliances, ambulances and police vehicles). 
@@ -28,21 +42,6 @@ I have also worked on many supervised and unsupervised learning machine learning
 
 ### Acoustic Analysis with the RAN
 Through 2023 I worked under the AUKUS initiative in a team developing Acoustic Analysis techniques. Contact me for further information. 
-  
-## Software Dev
-### Hammer and Tongs
-[Hammer and Tongs](https://lemonlimebitta.itch.io/hammer-and-tongs) - A small indie developed game I built for a game jam. Mine, craft and sell items to upgrade your gear!  
-<img src = HammerAndTongs.png height = 300 width = 500>
-### AI DM 
-An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a table top RPG adventure. Use any setting (fantasy, sci-fi, cyberpunk, modern war, high school, you name it!) and create your own party to go on ever changing and adapting adventures.   
-<img src = AIDM.PNG height = 300 width = 500>
-### Packing
-[Packing](https://jowei.itch.io/packing) - Worked in a group of 5 to create this 2D game about moving. Quickly pack all the items but take care not to break anything!  
-<img src = Packing.png height = 300 width = 500>
-### Drogue (Title Pending)
-[Drogue](https://lemonlimebitta.itch.io/drogue) - In development Roguelite ARPG. Go down multiple levels with random skills, augments and gear and create a new build every run. 
-
-<img src = Drogue.png height = 300 width = 500>
  
 ## Maker Projects
 ### Autonomous Underwater Vehicle
