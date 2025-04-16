@@ -12,6 +12,7 @@ Here are some projects you can check out to see how I work.
 ## Software Dev
 ### Descend (Title Pending)
 [Descend](https://lemonlimebitta.itch.io/drogue) - In development Roguelite ARPG. Go down multiple levels with random skills, augments and gear and create a new build every run. 
+
 <img src = Drogue.png height = 300 width = 500>
 ### Hammer and Tongs
 [Hammer and Tongs](https://lemonlimebitta.itch.io/hammer-and-tongs) - A small indie developed game I built for a game jam. Mine, craft and sell items to upgrade your gear!  
