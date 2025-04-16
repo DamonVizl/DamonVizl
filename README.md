@@ -14,12 +14,15 @@ Here are some projects you can check out to see how I work.
 [Descend](https://lemonlimebitta.itch.io/drogue) - In development Roguelite ARPG. Go down multiple levels with random skills, augments and gear and create a new build every run. 
 
 <img src = Drogue.png height = 300 width = 500>
+
 ### Hammer and Tongs
 [Hammer and Tongs](https://lemonlimebitta.itch.io/hammer-and-tongs) - A small indie developed game I built for a game jam. Mine, craft and sell items to upgrade your gear!  
 <img src = HammerAndTongs.png height = 300 width = 500>
+
 ### AI DM 
 An Artificial Intelligence Dungeon Master that leverages the OpenAI API to DM a table top RPG adventure. Use any setting (fantasy, sci-fi, cyberpunk, modern war, high school, you name it!) and create your own party to go on ever changing and adapting adventures.   
 <img src = AIDM.PNG height = 300 width = 500>
+
 ### Packing
 [Packing](https://jowei.itch.io/packing) - Worked in a group of 5 to create this 2D game about moving. Quickly pack all the items but take care not to break anything!  
 <img src = Packing.png height = 300 width = 500>
